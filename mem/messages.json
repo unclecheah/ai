@@ -1,0 +1,14 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Please answer only from the loaded document. If the information is not found in the document, simply answer I do't know.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]
